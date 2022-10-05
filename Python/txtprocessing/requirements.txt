@@ -62,7 +62,7 @@ Pillow==9.0.1
 poppler-utils==0.1.0
 prometheus-client==0.10.1
 prompt-toolkit==3.0.18
-protobuf==3.17.1
+protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
